@@ -26,10 +26,4 @@ A simple and intuitive desktop application for tracking daily expenses. The Expe
 - **Expense.java:** A simple model class representing an expense with description, amount, and date.
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this to better fit your needs!
